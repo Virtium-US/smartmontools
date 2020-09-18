@@ -564,8 +564,8 @@ const drive_settings builtin_knowndrives[] = {
     ".*VSF205CI100G-A902.*|"  // SlimSATA
     ".*VSFDM6CC400G-A901.*|"  // M.2
     ".*VSFDM8CC960G-A901.*|"  // M.2
-    ".*VSFDM8CC100G-A902.*|",  // M.2
-    ".*VSFDM4CC200G-A902.*"
+    ".*VSFDM8CC100G-A902.*|"  // M.2
+    ".*VSFDM4CC200G-A902.*",
     // X - XE Class, C - CE Class
     // C - commercial, I industrial
     "", "",
